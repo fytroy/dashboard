@@ -1,0 +1,17 @@
+# .streamlit/config.toml
+[theme]
+primaryColor = "#0078D4"  # Power BI blue accent
+backgroundColor = "#1A1A1A" # Dark background
+secondaryBackgroundColor = "#2B2B2B" # Slightly lighter dark for components
+textColor = "#E0E0E0"      # Light text for contrast
+font = "sans serif"
+
+[global]
+# Enable wide mode by default
+# This can also be set in st.set_page_config, but good to have here
+# if you want it as a default for all apps.
+# Suppress warning for older users:
+# showWarningOnDirectExecution = false
+
+[client]
+showSidebarNavigation = true # Ensures sidebar navigation is visible
