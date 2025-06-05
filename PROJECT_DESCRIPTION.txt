@@ -1,0 +1,1 @@
+A Streamlit-based Personal Automation Dashboard featuring crypto tracking, weather, site monitoring, Google Drive backups, email, AI news/PDF summarization, and system stats.
